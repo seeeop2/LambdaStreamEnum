@@ -1,4 +1,4 @@
-package Lambda1;
+package Lambda2;
 
 import java.util.function.Function;
 
